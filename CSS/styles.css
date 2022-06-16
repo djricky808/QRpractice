@@ -1,0 +1,40 @@
+h1 {
+  font-family: 'Outfit', sans-serif;
+  color: hsl(218, 44%, 22%);
+  margin: auto;
+padding: 1rem;
+  font-size: 2.10rem;
+}
+
+p {
+  font-family: 'Outfit', sans-serif;
+  color: hsl(220, 15%, 55%);
+  margin: auto;
+  font-size: 1.75rem;
+}
+
+body {
+  text-align: center;
+  background-color: hsl(212, 45%, 89%);
+  padding-top: 100px;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.boxframe {
+  background-color: hsl(0, 0%, 100%);
+  width: 35%;
+  margin: auto;
+  padding: 1rem 1rem 2rem;
+  border-radius: 30px;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.QR {
+  border-radius: 30px;
+  width: 90%;
+  margin: auto;
+}
